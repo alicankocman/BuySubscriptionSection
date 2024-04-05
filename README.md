@@ -1,1 +1,0 @@
-https://buysubscriptionsection.netlify.app/
