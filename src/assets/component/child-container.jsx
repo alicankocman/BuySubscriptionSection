@@ -28,7 +28,7 @@ const Main = () => {
   messageTwo={
     <div>
     <img
-      src="public\Ekran görüntüsü 2024-04-05 161643.png"
+      src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/a4/43/9aa4433b-90a5-ab53-bb4f-2c119a4785bf/AppIcon-0-1x_U007ephone-0-0-85-220-0.png/1200x600wa.png"
       alt="Telia Mobil 15GB"
       
     />
