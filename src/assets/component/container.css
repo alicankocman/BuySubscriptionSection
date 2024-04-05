@@ -131,3 +131,12 @@ top: 40px;
     border-radius: 41px;
     border: 3px solid #F0F0F6;
   }
+  .Button2{
+    width: 214px;
+    height: 56px;
+    border-radius: 41px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+  }

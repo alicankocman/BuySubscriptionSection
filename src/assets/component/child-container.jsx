@@ -54,6 +54,7 @@ const Main = () => {
     </div>
   }
 />
+<button className="Button2" style={{position:"relative", top:"250px", right:"550px"}}>See all subscriptions</button>
     </div>
     
   );
