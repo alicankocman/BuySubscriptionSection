@@ -1,3 +1,5 @@
+## PROJE LİNKİ
+
 https://buysubscriptionsection.netlify.app
 
 # BuySubscriptionSection Anasayfa Tasarımı
@@ -11,7 +13,6 @@ Bu proje, kullanıcıların abonelik seçeneklerini görüntüleyebileceği mode
 
 ## Ekran Görüntüsü
 
-![Ana Sayfa](screenshots/home.png)
 ![Ekran görüntüsü 2024-04-05 165655](https://github.com/alicankocman/BuySubscriptionSection/assets/88544926/42c29eeb-ef04-43c2-87cf-5737696f6cfe)
 
 ## Kurulum
